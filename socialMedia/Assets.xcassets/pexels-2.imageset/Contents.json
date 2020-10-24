@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "pexels-ike-louie-natividad-3304341@1x.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "pexels-ike-louie-natividad-3304341@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "pexels-ike-louie-natividad-3304341@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
